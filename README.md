@@ -1,2 +1,2 @@
-# Gest-o-de-Tarefas
+# GestaoDeTarefas
 Gestão de Tarefas em JAVA - MongoDB
